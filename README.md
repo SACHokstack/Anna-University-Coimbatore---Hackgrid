@@ -1,8 +1,10 @@
-## College Name - Team Name
-Provide details of team members 
+## Anna University Regional Campus Coimbatore - Hackgrid
+Sachiv.C - Team Leader
+Sidharthan.S
+Mohaideen Niyas
 
-## Problem Statement
-Provide description of which Theme and Problem statement you are attempting
+## Real-time equity analysis
+Theme: Improving Banking, Integrated apps
 
 ## Instructions on running your project
 Provide detailed steps to get your project up and running, including any dependencies
